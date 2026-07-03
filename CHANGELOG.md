@@ -2,6 +2,10 @@
 
 All notable changes to the monofoundry LSP plugin are documented here.
 
+## v0.2.2 — 2026-07-03
+
+- Resolved a packaging issue that caused the plugin to fail to load on install.
+
 ## v0.2.1 — 2026-07-03
 
 - Bug fixes and internal improvements.
