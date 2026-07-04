@@ -2,6 +2,13 @@
 
 All notable changes to the monofoundry LSP plugin are documented here.
 
+## v0.3.0 — 2026-07-04
+
+- Expanded the theme pack from 18 to 65 themes; 47 new dark and light themes are available in the theme picker.
+- Broadened colour coverage so more interface elements adopt the active theme's palette instead of falling back to defaults.
+- Fixed markdown blockquote styling that was not applying theme colours.
+- Bug fixes and internal improvements.
+
 ## v0.2.3 — 2026-07-03
 
 - Actually resolved a packaging issue that caused the plugin to fail to load on install.

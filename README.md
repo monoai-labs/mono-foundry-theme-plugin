@@ -1,14 +1,13 @@
 # monofoundry Theme Pack
 
-18 popular terminal themes for [monofoundry](https://github.com/monoai-co/monofoundry), converted from [shiki](https://github.com/shikijs/textmate-grammars-themes) TextMate themes.
+65 themes for [monofoundry](https://github.com/monoai-co/monofoundry), converted from [shiki](https://github.com/shikijs/textmate-grammars-themes) TextMate themes.
 
 ## Features
 
-- 18 curated themes spanning dark and light appearances
+- 65 themes spanning dark and light appearances
 - One-step install — all themes appear in the `/theme` picker immediately
 - Converted from shiki TextMate themes with automatic fallback colours for uncovered tokens
-- Themes cover syntax highlighting, diffs, markdown, status bar, spinners, and UI chrome
-- Pure JavaScript — no native dependencies, works on every platform monofoundry supports
+- Themes cover syntax highlighting, diffs, markdown, plan badges, status bar, spinners, pickers, and UI chrome
 
 ## Installation
 
@@ -20,26 +19,73 @@ Once installed and enabled, all themes appear in the `/theme` picker.
 
 ## Themes
 
-| Name                | Appearance |
-| ------------------- | ---------- |
-| dark-plus           | dark       |
-| light-plus          | light      |
-| monokai             | dark       |
-| nord                | dark       |
-| one-dark-pro        | dark       |
-| github-dark         | dark       |
-| github-light        | light      |
-| dracula             | dark       |
-| material-theme      | dark       |
-| solarized-dark      | dark       |
-| solarized-light     | light      |
-| rose-pine           | dark       |
-| catppuccin-mocha    | dark       |
-| tokyo-night         | dark       |
-| gruvbox-dark-medium | dark       |
-| kanagawa-wave       | dark       |
-| synthwave-84        | dark       |
-| night-owl           | dark       |
+| Name                       | Appearance |
+| -------------------------- | ---------- |
+| andromeeda                 | dark       |
+| aurora-x                   | dark       |
+| ayu-dark                   | dark       |
+| ayu-light                  | light      |
+| ayu-mirage                 | dark       |
+| catppuccin-frappe          | dark       |
+| catppuccin-latte           | light      |
+| catppuccin-macchiato       | dark       |
+| catppuccin-mocha           | dark       |
+| dark-plus                  | dark       |
+| dracula                    | dark       |
+| dracula-soft               | dark       |
+| everforest-dark            | dark       |
+| everforest-light           | light      |
+| github-dark                | dark       |
+| github-dark-default        | dark       |
+| github-dark-dimmed         | dark       |
+| github-dark-high-contrast  | dark       |
+| github-light               | light      |
+| github-light-default       | light      |
+| github-light-high-contrast | light      |
+| gruvbox-dark-hard          | dark       |
+| gruvbox-dark-medium        | dark       |
+| gruvbox-dark-soft          | dark       |
+| gruvbox-light-hard         | light      |
+| gruvbox-light-medium       | light      |
+| gruvbox-light-soft         | light      |
+| horizon                    | dark       |
+| horizon-bright             | light      |
+| houston                    | dark       |
+| kanagawa-dragon            | dark       |
+| kanagawa-lotus             | light      |
+| kanagawa-wave              | dark       |
+| laserwave                  | dark       |
+| light-plus                 | light      |
+| material-theme             | dark       |
+| material-theme-darker      | dark       |
+| material-theme-lighter     | light      |
+| material-theme-ocean       | dark       |
+| material-theme-palenight   | dark       |
+| min-dark                   | dark       |
+| min-light                  | light      |
+| monokai                    | dark       |
+| night-owl                  | dark       |
+| night-owl-light            | light      |
+| nord                       | dark       |
+| one-dark-pro               | dark       |
+| one-light                  | light      |
+| plastic                    | dark       |
+| poimandres                 | dark       |
+| red                        | dark       |
+| rose-pine                  | dark       |
+| rose-pine-dawn             | light      |
+| rose-pine-moon             | dark       |
+| slack-dark                 | dark       |
+| slack-ochin                | light      |
+| snazzy-light               | light      |
+| solarized-dark             | dark       |
+| solarized-light            | light      |
+| synthwave-84               | dark       |
+| tokyo-night                | dark       |
+| vesper                     | dark       |
+| vitesse-black              | dark       |
+| vitesse-dark               | dark       |
+| vitesse-light              | light      |
 
 ## Switching themes
 
