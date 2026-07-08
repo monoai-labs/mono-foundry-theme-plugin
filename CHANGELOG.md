@@ -2,6 +2,11 @@
 
 All notable changes to the monofoundry LSP plugin are documented here.
 
+## v0.3.1 — 2026-07-08
+
+- Removed the underline from the monokai theme logo for consistency with other themes.
+- Bug fixes and internal improvements.
+
 ## v0.3.0 — 2026-07-04
 
 - Expanded the theme pack from 18 to 65 themes; 47 new dark and light themes are available in the theme picker.
