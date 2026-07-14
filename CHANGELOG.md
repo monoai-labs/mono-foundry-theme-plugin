@@ -1,6 +1,12 @@
 # Changelog
 
-All notable changes to the monofoundry LSP plugin are documented here.
+All notable changes to the monofoundry theme plugin are documented here.
+
+## v0.3.2 — 2026-07-13
+
+- Added theme-aware shell prompt colouring across all available themes.
+- Requires monofoundry 0.24.1 or later.
+- Bug fixes and internal improvements.
 
 ## v0.3.1 — 2026-07-08
 
