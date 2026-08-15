@@ -1,6 +1,6 @@
 # monofoundry Theme Pack
 
-65 themes for [monofoundry](https://github.com/monoai-co/monofoundry), converted from [shiki](https://github.com/shikijs/textmate-grammars-themes) TextMate themes.
+65 themes for [monofoundry](https://github.com/monoai-labs/mono-foundry), converted from [shiki](https://github.com/shikijs/textmate-grammars-themes) TextMate themes.
 
 ## Features
 
